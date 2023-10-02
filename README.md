@@ -14,6 +14,8 @@ This project is a task management app built using Node.js for the backend and An
 
    ```bash
    git clone https://github.com/your-username/task-management-app.git
+
+   
 Navigate to the backend directory:
 
     
@@ -50,8 +52,7 @@ Installation
 
 Navigate to the frontend directory:
 
-bash
-Copy code
+
 
     cd task-management-app/frontend
 
